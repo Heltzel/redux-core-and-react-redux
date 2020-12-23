@@ -17,3 +17,8 @@ Get better understanding of Redux
 | Dummy data      |  https://jsonplaceholder.typicode.com/               |
 
 ***
+<br/>
+<br/>
+<h4> Redux diagram</h4>
+
+![alt text](./redux_diagram.jpg "Redux diagram")
