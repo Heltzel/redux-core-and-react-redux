@@ -17,6 +17,13 @@ Get better understanding of Redux
 | Dummy data      |  https://jsonplaceholder.typicode.com/               |
 
 ***
+### Note:
+<p> There  are warnings about using hooks in Redux.</p>
+<p> Read more about it on: </p>
+
+https://react-redux.js.org/api/hooks#usage-warnings
+
+***
 <br/>
 <br/>
 <h4> Redux diagram</h4>
